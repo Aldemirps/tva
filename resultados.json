@@ -1,20 +1,30 @@
 {
   "groups": [
     {
-      "name": "01-Pack FULL",
+      "name": "FILMES & SERIES",
       "canais": [
         {
           "name": "A&E 4K",
           "tvgName": "A&E",
           "logoUrl": "http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/225"
-        },
+        }
+      ]
+    },
+    {
+      "name": "NOTICIAS",
+      "canais": [
         {
           "name": "AGRO+ 4K",
           "tvgName": "AGRO+",
           "logoUrl": "https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/852"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "AMAZON ESPORTES 1",
           "tvgName": "AMAZON",
@@ -38,7 +48,12 @@
           "tvgName": "AMAZON",
           "logoUrl": "http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1159"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "AMC 4K",
           "tvgName": "AMC",
@@ -50,13 +65,23 @@
           "tvgName": "AMC",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/229"
-        },
+        }
+      ]
+    },
+    {
+      "name": "DOCUMENTARIOS",
+      "canais": [
         {
           "name": "ANIMAL PLANET 4K",
           "tvgName": "ANIMAL",
           "logoUrl": "http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/61"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "ARTE 1 4K",
           "tvgName": "ARTE",
@@ -74,7 +99,12 @@
           "tvgName": "AXN",
           "logoUrl": "http://46.165.222.67:2095/xplus/animalplan.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/233"
-        },
+        }
+      ]
+    },
+    {
+      "name": "INFANTIS",
+      "canais": [
         {
           "name": "BABY TV 4K",
           "tvgName": "BABY",
@@ -86,13 +116,23 @@
           "tvgName": "BABY",
           "logoUrl": "http://185.53.90.49:41001/logos/Baby",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/342"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "BAND MINAS UHD",
           "tvgName": "BAND",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/481"
-        },
+        }
+      ]
+    },
+    {
+      "name": "NOTICIAS",
+      "canais": [
         {
           "name": "BAND NEWS 4K",
           "tvgName": "BAND",
@@ -104,7 +144,12 @@
           "tvgName": "BAND",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/432"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "BAND NORDESTE UHD",
           "tvgName": "BAND",
@@ -122,7 +167,12 @@
           "tvgName": "BAND",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/485"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES",
+      "canais": [
         {
           "name": "BAND SPORTS 4K",
           "tvgName": "BAND",
@@ -134,7 +184,12 @@
           "tvgName": "BAND",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/121"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESTRELA DA CASA",
+      "canais": [
         {
           "name": "ESTRELA DA CASA 10",
           "tvgName": "ESTRELA",
@@ -146,7 +201,12 @@
           "tvgName": "ESTRELA",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1249"
-        },
+        }
+      ]
+    },
+    {
+      "name": "BEIN SPORTS",
+      "canais": [
         {
           "name": "BEIN SPORTS 1",
           "tvgName": "BEIN",
@@ -188,7 +248,12 @@
           "tvgName": "BEIN",
           "logoUrl": "https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/907"
-        },
+        }
+      ]
+    },
+    {
+      "name": "MUSICA",
+      "canais": [
         {
           "name": "BIS 4K",
           "tvgName": "BIS",
@@ -200,13 +265,23 @@
           "tvgName": "BIS",
           "logoUrl": "https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/420"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "CANAL BOI HD",
           "tvgName": "CANAL",
           "logoUrl": "http://185.53.90.49:41001/logos/canal",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/486"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "CANAL BRASIL 4K",
           "tvgName": "CANAL",
@@ -218,7 +293,12 @@
           "tvgName": "CANAL",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/237"
-        },
+        }
+      ]
+    },
+    {
+      "name": "RELIGIOSO",
+      "canais": [
         {
           "name": "CANCAO NOVA HD",
           "tvgName": "CANCAO",
@@ -230,7 +310,12 @@
           "tvgName": "CANCAO",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/97"
-        },
+        }
+      ]
+    },
+    {
+      "name": "INFANTIS",
+      "canais": [
         {
           "name": "CARTOON NETWORK 4K",
           "tvgName": "CARTOON",
@@ -254,13 +339,23 @@
           "tvgName": "CARTOONITO",
           "logoUrl": "http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/345"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "CAZE TV",
           "tvgName": "CAZE",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1145"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "CINEMAX 4K",
           "tvgName": "CINEMAX",
@@ -272,7 +367,12 @@
           "tvgName": "CINEMAX",
           "logoUrl": "http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/240"
-        },
+        }
+      ]
+    },
+    {
+      "name": "NOTICIAS",
+      "canais": [
         {
           "name": "CNN BRASIL 4K",
           "tvgName": "CNN",
@@ -296,7 +396,12 @@
           "tvgName": "CNT",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/444"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES",
+      "canais": [
         {
           "name": "COMBATE 4K",
           "tvgName": "COMBATE",
@@ -308,7 +413,12 @@
           "tvgName": "COMBATE",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/123"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ENTRETENIMENTO",
+      "canais": [
         {
           "name": "COMEDY CENTRAL 4K",
           "tvgName": "COMEDY",
@@ -320,19 +430,34 @@
           "tvgName": "COMEDY",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/98"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESTRELA DA CASA",
+      "canais": [
         {
           "name": "ESTRELA DA CASA 02",
           "tvgName": "ESTRELA",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1256"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ENTRETENIMENTO",
+      "canais": [
         {
           "name": "CURTA HD",
           "tvgName": "CURTA",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/100"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "DAZN 1",
           "tvgName": "DAZN",
@@ -368,7 +493,12 @@
           "tvgName": "DAZN",
           "logoUrl": "http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/824"
-        },
+        }
+      ]
+    },
+    {
+      "name": "DOCUMENTARIOS",
+      "canais": [
         {
           "name": "DISCOVERY CHANNEL 4K",
           "tvgName": "DISCOVERY",
@@ -398,7 +528,12 @@
           "tvgName": "DISCOVERY",
           "logoUrl": "http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/70"
-        },
+        }
+      ]
+    },
+    {
+      "name": "INFANTIS",
+      "canais": [
         {
           "name": "DISCOVERY KIDS 4K",
           "tvgName": "DISCOVERY",
@@ -410,7 +545,12 @@
           "tvgName": "DISCOVERY",
           "logoUrl": "http://185.53.90.49:41001/logos/discovery_kids.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/349"
-        },
+        }
+      ]
+    },
+    {
+      "name": "DOCUMENTARIOS",
+      "canais": [
         {
           "name": "DISCOVERY SCIENCE 4k",
           "tvgName": "DISCOVERY",
@@ -452,7 +592,12 @@
           "tvgName": "DISCOVERY",
           "logoUrl": "http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/78"
-        },
+        }
+      ]
+    },
+    {
+      "name": "INFANTIS",
+      "canais": [
         {
           "name": "DISNEY CHANNEL  4K",
           "tvgName": "DISNEY",
@@ -464,7 +609,12 @@
           "tvgName": "DISNEY",
           "logoUrl": "http://185.53.90.49:41001/logos/disneychannel.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/352"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ENTRETENIMENTO",
+      "canais": [
         {
           "name": "DOG TV HD",
           "tvgName": "DOG",
@@ -488,13 +638,23 @@
           "tvgName": "E!",
           "logoUrl": "https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/103"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "EPTV RIBEIRAO PRETO",
           "tvgName": "EPTV",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1011"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES",
+      "canais": [
         {
           "name": "ESPN  4K",
           "tvgName": "ESPN",
@@ -560,13 +720,23 @@
           "tvgName": "ESPN",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/134"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ENTRETENIMENTO",
+      "canais": [
         {
           "name": "FASHION TV HD",
           "tvgName": "FASHION",
           "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/878"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FEC 24 HRS",
+      "canais": [
         {
           "name": "FEC 01",
           "tvgName": "FEC",
@@ -686,13 +856,23 @@
           "tvgName": "FEC",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1187"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "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\" group-title=\"FILMES & SERIES\"",
           "tvgName": "FILM",
           "logoUrl": "data:image/png;base64",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/242"
-        },
+        }
+      ]
+    },
+    {
+      "name": "DOCUMENTARIOS",
+      "canais": [
         {
           "name": "FISH TV 4K",
           "tvgName": "FISH",
@@ -704,7 +884,12 @@
           "tvgName": "FISH",
           "logoUrl": "https://cdn.mitvstatic.com/channels/br_fishtv_m.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/80"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ENTRETENIMENTO",
+      "canais": [
         {
           "name": "FOOD NETWORK 4K",
           "tvgName": "FOOD",
@@ -716,7 +901,12 @@
           "tvgName": "FOOD",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/105"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES",
+      "canais": [
         {
           "name": "ESPN 5 4K",
           "tvgName": "ESPN",
@@ -728,13 +918,23 @@
           "tvgName": "ESPN",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/140"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "FURACÃO LIVE 4K",
           "tvgName": "FURACÃO",
           "logoUrl": "https://pbs.twimg.com/profile_images/1320433252608466947/ekNFdF28.jpg",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/818"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "FUTURA 4K",
           "tvgName": "FUTURA",
@@ -746,7 +946,12 @@
           "tvgName": "FX",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/244"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "GLOBO BAHIA 4K",
           "tvgName": "GLOBO",
@@ -806,7 +1011,12 @@
           "tvgName": "GLOBO",
           "logoUrl": "http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/772"
-        },
+        }
+      ]
+    },
+    {
+      "name": "NOTICIAS",
+      "canais": [
         {
           "name": "GLOBO NEWS 4K",
           "tvgName": "GLOBO",
@@ -818,7 +1028,12 @@
           "tvgName": "GLOBO",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/445"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "GLOBO NORDESTE 4K",
           "tvgName": "GLOBO",
@@ -920,13 +1135,23 @@
           "tvgName": "GLOBO",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/563"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ENTRETENIMENTO",
+      "canais": [
         {
           "name": "GLOBOSAT + UHD",
           "tvgName": "GLOBOSAT",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/106"
-        },
+        }
+      ]
+    },
+    {
+      "name": "INFANTIS",
+      "canais": [
         {
           "name": "GLOOB 4K",
           "tvgName": "GLOOB",
@@ -950,13 +1175,23 @@
           "tvgName": "GLOOBINHO",
           "logoUrl": "http://185.53.90.49:41001/logos/globinho.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/360"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ENTRETENIMENTO",
+      "canais": [
         {
           "name": "GNT 4K",
           "tvgName": "GNT",
           "logoUrl": "http://185.53.90.49:41001/logos/gnt.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/107"
-        },
+        }
+      ]
+    },
+    {
+      "name": "DOCUMENTARIOS",
+      "canais": [
         {
           "name": "H2 4K",
           "tvgName": "H2",
@@ -968,7 +1203,12 @@
           "tvgName": "H2",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/81"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "HBO + 4K",
           "tvgName": "HBO",
@@ -1016,7 +1256,12 @@
           "tvgName": "HBO",
           "logoUrl": "http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/255"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "HBO MAX 1 HD",
           "tvgName": "HBO",
@@ -1040,7 +1285,12 @@
           "tvgName": "HBO",
           "logoUrl": "https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/835"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "HBO MUNDI 4K",
           "tvgName": "HBO",
@@ -1100,7 +1350,12 @@
           "tvgName": "HBO",
           "logoUrl": "http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/267"
-        },
+        }
+      ]
+    },
+    {
+      "name": "DOCUMENTARIOS",
+      "canais": [
         {
           "name": "HGTV 4K",
           "tvgName": "HGTV",
@@ -1124,7 +1379,12 @@
           "tvgName": "HISTORY",
           "logoUrl": "http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/82"
-        },
+        }
+      ]
+    },
+    {
+      "name": "NOTICIAS",
+      "canais": [
         {
           "name": "JOVEM PAN NEWS 4K",
           "tvgName": "JOVEM",
@@ -1136,7 +1396,12 @@
           "tvgName": "JOVEM",
           "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/846"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "LIFETIME HD",
           "tvgName": "LIFETIME",
@@ -1154,13 +1419,23 @@
           "tvgName": "MEGAPIX",
           "logoUrl": "http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/271"
-        },
+        }
+      ]
+    },
+    {
+      "name": "DOCUMENTARIOS",
+      "canais": [
         {
           "name": "MODO VIAGEM 4K",
           "tvgName": "MODO",
           "logoUrl": "http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/85"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESTRELA DA CASA",
+      "canais": [
         {
           "name": "ESTRELA DA CASA 06",
           "tvgName": "ESTRELA",
@@ -1172,7 +1447,12 @@
           "tvgName": "ESTRELA",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1251"
-        },
+        }
+      ]
+    },
+    {
+      "name": "MUSICA",
+      "canais": [
         {
           "name": "MTV 4K",
           "tvgName": "MTV",
@@ -1202,7 +1482,12 @@
           "tvgName": "MUSIC",
           "logoUrl": "http://185.53.90.49:41001/logos/music",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/424"
-        },
+        }
+      ]
+    },
+    {
+      "name": "DOCUMENTARIOS",
+      "canais": [
         {
           "name": "NATIONAL GEOGRAPHIC 4K",
           "tvgName": "NATIONAL",
@@ -1214,7 +1499,12 @@
           "tvgName": "NATIONAL",
           "logoUrl": "http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/88"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "NBA 1 4K",
           "tvgName": "NBA",
@@ -1274,7 +1564,12 @@
           "tvgName": "NFL",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1130"
-        },
+        }
+      ]
+    },
+    {
+      "name": "NOTICIAS",
+      "canais": [
         {
           "name": "NHK 4K",
           "tvgName": "NHK",
@@ -1286,7 +1581,12 @@
           "tvgName": "NHK",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/450"
-        },
+        }
+      ]
+    },
+    {
+      "name": "INFANTIS",
+      "canais": [
         {
           "name": "NICK JR 4K",
           "tvgName": "NICK",
@@ -1310,7 +1610,12 @@
           "tvgName": "NICKELODEON",
           "logoUrl": "http://185.53.90.49:41001/logos/nick.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/768"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "NOSSO FUTEBOL 1",
           "tvgName": "NOSSO",
@@ -1334,13 +1639,23 @@
           "tvgName": "NOSSO",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1134"
-        },
+        }
+      ]
+    },
+    {
+      "name": "RELIGIOSO",
+      "canais": [
         {
           "name": "NOVO TEMPO HD",
           "tvgName": "NOVO",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/556"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "NSPORTS 1 HD",
           "tvgName": "NSPORTS",
@@ -1352,7 +1667,12 @@
           "tvgName": "NSPORTS",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1069"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "OFF 4K",
           "tvgName": "OFF",
@@ -1364,13 +1684,23 @@
           "tvgName": "OFF",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/274"
-        },
+        }
+      ]
+    },
+    {
+      "name": "RELIGIOSO",
+      "canais": [
         {
           "name": "PAI ETERNO",
           "tvgName": "PAI",
           "logoUrl": "https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/939"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "PARAMOUNT CHANNEL 4K",
           "tvgName": "PARAMOUNT",
@@ -1382,7 +1712,12 @@
           "tvgName": "PARAMOUNT",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/276"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "PARAMOUNT+ 1 4K",
           "tvgName": "PARAMOUNT+",
@@ -1406,13 +1741,23 @@
           "tvgName": "PARAMOUNT+",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1154"
-        },
+        }
+      ]
+    },
+    {
+      "name": "MUSICA",
+      "canais": [
         {
           "name": "PLAY TV",
           "tvgName": "PLAY",
           "logoUrl": "http://185.53.90.49:41001/logos/play",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/426"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES",
+      "canais": [
         {
           "name": "PREMIERE 1 4K",
           "tvgName": "PREMIERE",
@@ -1514,13 +1859,23 @@
           "tvgName": "PREMIERE",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/164"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "PRIME BOX BRASIL HD",
           "tvgName": "PRIME",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/277"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESTRELA DA CASA",
+      "canais": [
         {
           "name": "ESTRELA DA CASA 01",
           "tvgName": "ESTRELA",
@@ -1538,13 +1893,23 @@
           "tvgName": "ESTRELA",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1253"
-        },
+        }
+      ]
+    },
+    {
+      "name": "NOTICIAS",
+      "canais": [
         {
           "name": "RAI ITALIA HD",
           "tvgName": "RAI",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/428"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "RBI 4K",
           "tvgName": "RBI",
@@ -1592,7 +1957,12 @@
           "tvgName": "RECORD",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/525"
-        },
+        }
+      ]
+    },
+    {
+      "name": "NOTICIAS",
+      "canais": [
         {
           "name": "RECORD NEWS HD",
           "tvgName": "RECORD",
@@ -1604,7 +1974,12 @@
           "tvgName": "RECORD",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/451"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "RECORD PARANA HD",
           "tvgName": "RECORD",
@@ -1640,7 +2015,12 @@
           "tvgName": "REDE",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/531"
-        },
+        }
+      ]
+    },
+    {
+      "name": "RELIGIOSO",
+      "canais": [
         {
           "name": "REDE GOSPEL",
           "tvgName": "REDE",
@@ -1652,31 +2032,56 @@
           "tvgName": "REDE",
           "logoUrl": "http://xplussport.com:8080/images/fa919d1786ed52f86581665859726dbd.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1054"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "REDE TV HD",
           "tvgName": "REDE",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/532"
-        },
+        }
+      ]
+    },
+    {
+      "name": "RELIGIOSO",
+      "canais": [
         {
           "name": "REDE VIDA HD",
           "tvgName": "REDE",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/113"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ENTRETENIMENTO",
+      "canais": [
         {
           "name": "SABOR & ARTE HD",
           "tvgName": "SABOR",
           "logoUrl": "https://www.saboreartetorteria.com.br/wp-content/uploads/2019/08/saborearte.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/877"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESTRELA DA CASA",
+      "canais": [
         {
           "name": "ESTRELA DA CASA 03",
           "tvgName": "ESTRELA",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1255"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "SBT 4K",
           "tvgName": "SBT",
@@ -1700,7 +2105,12 @@
           "tvgName": "SBT",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/538"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "SONY CHANNEL HD",
           "tvgName": "SONY",
@@ -1712,7 +2122,12 @@
           "tvgName": "SPACE",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/278"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES",
+      "canais": [
         {
           "name": "SPORTV 1 4K",
           "tvgName": "SPORTV",
@@ -1736,7 +2151,12 @@
           "tvgName": "SPORTV",
           "logoUrl": "http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/175"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "STAR CHANNEL 4K",
           "tvgName": "STAR",
@@ -1748,7 +2168,12 @@
           "tvgName": "STAR",
           "logoUrl": "http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/282"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "STAR+ 1 HD",
           "tvgName": "STAR+",
@@ -1796,7 +2221,12 @@
           "tvgName": "STAR+",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1150"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "STUDIO UNIVERSAL 4K",
           "tvgName": "STUDIO",
@@ -1898,7 +2328,12 @@
           "tvgName": "TELECINE",
           "logoUrl": "http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/310"
-        },
+        }
+      ]
+    },
+    {
+      "name": "DOCUMENTARIOS",
+      "canais": [
         {
           "name": "TLC 4K",
           "tvgName": "TLC",
@@ -1910,7 +2345,12 @@
           "tvgName": "TLC",
           "logoUrl": "http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/92"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "TNT 4K",
           "tvgName": "TNT",
@@ -1934,31 +2374,56 @@
           "tvgName": "TNT",
           "logoUrl": "http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/314"
-        },
+        }
+      ]
+    },
+    {
+      "name": "MUSICA",
+      "canais": [
         {
           "name": "TRACE BRAZUCA HD",
           "tvgName": "TRACE",
           "logoUrl": "http://xplussport.com:8080/images/42ecffe48fdd469bc47366fb0b873f7f.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/969"
-        },
+        }
+      ]
+    },
+    {
+      "name": "DOCUMENTARIOS",
+      "canais": [
         {
           "name": "TRAVEL BOX BRASIL 4K",
           "tvgName": "TRAVEL",
           "logoUrl": "https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/848"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "TRU TV HD",
           "tvgName": "TRU",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/541"
-        },
+        }
+      ]
+    },
+    {
+      "name": "RELIGIOSO",
+      "canais": [
         {
           "name": "TV APARECIDA HD",
           "tvgName": "TV",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/542"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "TV BRASIL 2 HD",
           "tvgName": "TV",
@@ -1988,13 +2453,23 @@
           "tvgName": "TV",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/548"
-        },
+        }
+      ]
+    },
+    {
+      "name": "RELIGIOSO",
+      "canais": [
         {
           "name": "TV EVANGELIZAR HD",
           "tvgName": "TV",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1051"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "TV GAZETA  4K",
           "tvgName": "TV",
@@ -2018,13 +2493,23 @@
           "tvgName": "TV",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1099"
-        },
+        }
+      ]
+    },
+    {
+      "name": "RELIGIOSO",
+      "canais": [
         {
           "name": "TV NOVO TEMPO",
           "tvgName": "TV",
           "logoUrl": "http://xplussport.com:8080/images/cdc70908008a205cf43dd0c1ed95ad4e.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1053"
-        },
+        }
+      ]
+    },
+    {
+      "name": "INFANTIS",
+      "canais": [
         {
           "name": "TV RA TIM BUM 4K",
           "tvgName": "TV",
@@ -2036,7 +2521,12 @@
           "tvgName": "TV",
           "logoUrl": "http://185.53.90.49:41001/logos/tvratimbum.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/557"
-        },
+        }
+      ]
+    },
+    {
+      "name": "TV ABERTA",
+      "canais": [
         {
           "name": "TV SANTA CRUZ 4K",
           "tvgName": "TV",
@@ -2078,13 +2568,23 @@
           "tvgName": "TV",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/566"
-        },
+        }
+      ]
+    },
+    {
+      "name": "NOTICIAS",
+      "canais": [
         {
           "name": "TVE HD",
           "tvgName": "TVE",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/455"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "UFC FIGHT PASS",
           "tvgName": "UFC",
@@ -2096,13 +2596,23 @@
           "tvgName": "UFC",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1122"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "UNIVERSAL CHANNEL HD",
           "tvgName": "UNIVERSAL",
           "logoUrl": "http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/319"
-        },
+        }
+      ]
+    },
+    {
+      "name": "MUSICA",
+      "canais": [
         {
           "name": "VH1 HD",
           "tvgName": "VH1",
@@ -2114,13 +2624,23 @@
           "tvgName": "VH1",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/431"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ENTRETENIMENTO",
+      "canais": [
         {
           "name": "VIVA 4K",
           "tvgName": "VIVA",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/114"
-        },
+        }
+      ]
+    },
+    {
+      "name": "FILMES & SERIES",
+      "canais": [
         {
           "name": "WARNER CHANNEL 4K",
           "tvgName": "WARNER",
@@ -2132,13 +2652,23 @@
           "tvgName": "WARNER",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/320"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ENTRETENIMENTO",
+      "canais": [
         {
           "name": "WOOHOO HD",
           "tvgName": "WOOHOO",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/117"
-        },
+        }
+      ]
+    },
+    {
+      "name": "XVIDEO",
+      "canais": [
         {
           "name": "XVIDEO 01",
           "tvgName": "XVIDEO",
@@ -2432,13 +2962,23 @@
           "tvgName": "XVIDEO",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1237"
-        },
+        }
+      ]
+    },
+    {
+      "name": "INFANTIS",
+      "canais": [
         {
           "name": "ZOOMOO 4K",
           "tvgName": "ZOOMOO",
           "logoUrl": "http://185.53.90.49:41001/logos/zoomoo.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/370"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "GOAT TV 2 4K",
           "tvgName": "GOAT",
@@ -2462,7 +3002,12 @@
           "tvgName": "CAZE",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1266"
-        },
+        }
+      ]
+    },
+    {
+      "name": "PORNOBOX",
+      "canais": [
         {
           "name": "PORNBOX 1",
           "tvgName": "PORNBOX",
@@ -3062,7 +3607,12 @@
           "tvgName": "PORNBOX",
           "logoUrl": "http://185.53.90.49:2095/logos/pornobox.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/666"
-        },
+        }
+      ]
+    },
+    {
+      "name": "24HS INFANTIL ",
+      "canais": [
         {
           "name": "3 PALAVRINHAS",
           "tvgName": "3",
@@ -3368,7 +3918,12 @@
           "tvgName": "TOM",
           "logoUrl": "http://185.53.90.49:2095/logos/24hhss.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/733"
-        },
+        }
+      ]
+    },
+    {
+      "name": "CANAIS HDR+",
+      "canais": [
         {
           "name": "SPORTV 1 HDR+",
           "tvgName": "SPORTV",
@@ -3500,7 +4055,12 @@
           "tvgName": "DISCOVERY",
           "logoUrl": "http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1022"
-        },
+        }
+      ]
+    },
+    {
+      "name": "ESPORTES ONLINE",
+      "canais": [
         {
           "name": "DISNEY+ 08",
           "tvgName": "DISNEY+",
@@ -3548,7 +4108,12 @@
           "tvgName": "DISNEY+",
           "logoUrl": "",
           "url": "http://p2.hostinggonemoreso1.com:2082/Tourobox1-u80ke8byx0/uhwuvDoCp6/1276"
-        },
+        }
+      ]
+    },
+    {
+      "name": "A FAZENDA 2024",
+      "canais": [
         {
           "name": "A FAZENDA 01",
           "tvgName": "A",
