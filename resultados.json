@@ -5,385 +5,385 @@
       "canais": [
         {
           "name": "A&E FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40453.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40453.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/4147f2348168dfd3adc135817ff23706.png",
           "tvgName": "A&E"
         },
         {
           "name": "A&E HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40454.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40454.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/4147f2348168dfd3adc135817ff23706.png",
           "tvgName": "A&E"
         },
         {
           "name": "AMC FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40458.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40458.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/bbc82a9da9f88d95f4d9e9fa882583a1.png",
           "tvgName": "AMC"
         },
         {
           "name": "AMC HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40459.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40459.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/bbc82a9da9f88d95f4d9e9fa882583a1.png",
           "tvgName": "AMC"
         },
         {
           "name": "AXN FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40463.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40463.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/8816381fbd627dc3cab53ed2ce63faaf.png",
           "tvgName": "AXN"
         },
         {
           "name": "AXN HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40464.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40464.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/8bf8c737499a0568b9e493b4f89a944c.png",
           "tvgName": "AXN"
         },
         {
           "name": "Canal Sony FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40489.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40489.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/637d392d6c6b3747cc73a827a5ea7320.png",
           "tvgName": "Canal"
         },
         {
           "name": "Canal Sony HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40490.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40490.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/637d392d6c6b3747cc73a827a5ea7320.png",
           "tvgName": "Canal"
         },
         {
           "name": "CINECANAL FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40497.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40497.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/0cbb712303a0e6ac8bedfbce1c26e7b9.png",
           "tvgName": "CINECANAL"
         },
         {
           "name": "CINECANAL HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40498.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40498.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/0cbb712303a0e6ac8bedfbce1c26e7b9.png",
           "tvgName": "CINECANAL"
         },
         {
           "name": "Cinemax HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40499.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40499.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e9a537312f119c8e1f1aaa8505749460.png",
           "tvgName": "Cinemax"
         },
         {
           "name": "Film&Arts FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40535.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40535.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3008dc2c039076fed9fd68776de9e851.png",
           "tvgName": "Film&Arts"
         },
         {
           "name": "Film&Arts HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40536.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40536.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3008dc2c039076fed9fd68776de9e851.png",
           "tvgName": "Film&Arts"
         },
         {
           "name": "HBO Family FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40586.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40586.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/7b91163a32fc65aa04a172433e517fde.png",
           "tvgName": "HBO"
         },
         {
           "name": "HBO Family HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40587.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40587.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/7b91163a32fc65aa04a172433e517fde.png",
           "tvgName": "HBO"
         },
         {
           "name": "HBO FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40588.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40588.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e8d038a61483cb317716053ce6778d6e.png",
           "tvgName": "HBO"
         },
         {
           "name": "HBO HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40589.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40589.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e8d038a61483cb317716053ce6778d6e.png",
           "tvgName": "HBO"
         },
         {
           "name": "HBO MUNDI HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40590.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40590.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f59b18095d4f604d57ccb93b64e51142.png",
           "tvgName": "HBO"
         },
         {
           "name": "HBO POP FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40591.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40591.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/0e205c9e439f69b6e4ca21f6fc2a5223.png",
           "tvgName": "HBO"
         },
         {
           "name": "HBO POP HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40592.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40592.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/0e205c9e439f69b6e4ca21f6fc2a5223.png",
           "tvgName": "HBO"
         },
         {
           "name": "HBO Signature FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40593.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40593.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/599d346e24bd5bbafc03fbfa4b0fe4f8.png",
           "tvgName": "HBO"
         },
         {
           "name": "HBO Signature HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40594.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40594.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/599d346e24bd5bbafc03fbfa4b0fe4f8.png",
           "tvgName": "HBO"
         },
         {
           "name": "HBO XTREME HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40595.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40595.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/9d53c8c5baf7fe9461962fe1d75fe313.png",
           "tvgName": "HBO"
         },
         {
           "name": "HBO+ FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40596.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40596.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/b7c64fa7f8ed31ed2c6b4c68a9f998d0.png",
           "tvgName": "HBO+"
         },
         {
           "name": "HBO+ HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40597.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40597.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/b7c64fa7f8ed31ed2c6b4c68a9f998d0.png",
           "tvgName": "HBO+"
         },
         {
           "name": "HBO2 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40598.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40598.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/b3b8e916262df0b4e7593d30a39ed42e.png",
           "tvgName": "HBO2"
         },
         {
           "name": "HBO2 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40599.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40599.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/b3b8e916262df0b4e7593d30a39ed42e.png",
           "tvgName": "HBO2"
         },
         {
           "name": "Paramount Network FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40646.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40646.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/60801e4008def86570f6a8b51bffe1fc.png",
           "tvgName": "Paramount"
         },
         {
           "name": "Paramount Network HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40647.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40647.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ea5e00dcd76ea2879415f6c30265daf7.png",
           "tvgName": "Paramount"
         },
         {
           "name": "Paramount+ 2 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40648.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40648.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/01ce31b68ec904e3b31ae66e63dd7752.png",
           "tvgName": "Paramount+"
         },
         {
           "name": "Paramount+ 2 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40649.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40649.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/01ce31b68ec904e3b31ae66e63dd7752.png",
           "tvgName": "Paramount+"
         },
         {
           "name": "Paramount+ 3 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40650.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40650.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/01ce31b68ec904e3b31ae66e63dd7752.png",
           "tvgName": "Paramount+"
         },
         {
           "name": "Paramount+ 3 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40651.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40651.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/01ce31b68ec904e3b31ae66e63dd7752.png",
           "tvgName": "Paramount+"
         },
         {
           "name": "Paramount+ 4 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40652.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40652.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/01ce31b68ec904e3b31ae66e63dd7752.png",
           "tvgName": "Paramount+"
         },
         {
           "name": "Paramount+ FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40653.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40653.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/01ce31b68ec904e3b31ae66e63dd7752.png",
           "tvgName": "Paramount+"
         },
         {
           "name": "Paramount+ HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40654.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40654.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/01ce31b68ec904e3b31ae66e63dd7752.png",
           "tvgName": "Paramount+"
         },
         {
           "name": "Space FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40696.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40696.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/44a3c05dd55e79a7b03045a5aa13b359.png",
           "tvgName": "Space"
         },
         {
           "name": "Space HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40697.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40697.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c5a1c50ed10fd11a6cdd3967c8981f69.png",
           "tvgName": "Space"
         },
         {
           "name": "Studio Universal FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40708.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40708.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f50e2ccf11afb1c4cce560e81bb87670.png",
           "tvgName": "Studio"
         },
         {
           "name": "Studio Universal HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40709.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40709.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c2ffc97d458bf928ecc5f1d0d26cd6d8.png",
           "tvgName": "Studio"
         },
         {
           "name": "Telecine Action FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40710.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40710.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/a41035164302a263ebd0bbfe3077a07f.png",
           "tvgName": "Telecine"
         },
         {
           "name": "Telecine Action HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40711.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40711.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/a41035164302a263ebd0bbfe3077a07f.png",
           "tvgName": "Telecine"
         },
         {
           "name": "Telecine Cult FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40712.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40712.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e1e219e8f7594ffb80b3cda3945e8d78.png",
           "tvgName": "Telecine"
         },
         {
           "name": "Telecine Cult HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40713.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40713.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e1e219e8f7594ffb80b3cda3945e8d78.png",
           "tvgName": "Telecine"
         },
         {
           "name": "Telecine Fun FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40714.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40714.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3245a3ea3e9fa7f553dc07b7e9d91e90.png",
           "tvgName": "Telecine"
         },
         {
           "name": "Telecine Fun HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40715.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40715.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3245a3ea3e9fa7f553dc07b7e9d91e90.png",
           "tvgName": "Telecine"
         },
         {
           "name": "Telecine Pipoca FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40716.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40716.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/280df4a144798a0d9cbcec77675b63c3.png",
           "tvgName": "Telecine"
         },
         {
           "name": "Telecine Pipoca HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40717.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40717.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/280df4a144798a0d9cbcec77675b63c3.png",
           "tvgName": "Telecine"
         },
         {
           "name": "Telecine Premium FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40718.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40718.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/01d7d914dcff01ff5083f4bba0dfa3f7.png",
           "tvgName": "Telecine"
         },
         {
           "name": "Telecine Premium HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40719.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40719.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/01d7d914dcff01ff5083f4bba0dfa3f7.png",
           "tvgName": "Telecine"
         },
         {
           "name": "Telecine Touch FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40720.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40720.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/9994e20d096726c0ebb3aa04ac90578d.png",
           "tvgName": "Telecine"
         },
         {
           "name": "Telecine Touch HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40721.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40721.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/9994e20d096726c0ebb3aa04ac90578d.png",
           "tvgName": "Telecine"
         },
         {
           "name": "TNT FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40724.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40724.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/19fd5d8c33e349b8c46cfde90fd19bb2.png",
           "tvgName": "TNT"
         },
         {
           "name": "TNT HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40725.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40725.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/19fd5d8c33e349b8c46cfde90fd19bb2.png",
           "tvgName": "TNT"
         },
         {
           "name": "TNT NOVELAS FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40726.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40726.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f075cfb58c7dc53390a73fa0078f8406.png",
           "tvgName": "TNT"
         },
         {
           "name": "TNT NOVELAS HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40727.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40727.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f075cfb58c7dc53390a73fa0078f8406.png",
           "tvgName": "TNT"
         },
         {
           "name": "TNT Séries FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40728.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40728.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f075cfb58c7dc53390a73fa0078f8406.png",
           "tvgName": "TNT"
         },
         {
           "name": "TNT Séries HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40729.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40729.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/39fde06a9a667616f897c5f438fa42de.png",
           "tvgName": "TNT"
         },
         {
           "name": "Universal TV FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40745.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40745.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/8eac13f5668b63848b2bfa62d5483861.png",
           "tvgName": "Universal"
         },
         {
           "name": "Universal TV HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40746.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40746.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/8eac13f5668b63848b2bfa62d5483861.png",
           "tvgName": "Universal"
         },
         {
           "name": "Warner Channel FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40755.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40755.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/5e0f88c7387b594e0b9d226b8dc3011c.png",
           "tvgName": "Warner"
         },
         {
           "name": "Warner Channel HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40756.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40756.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/63a4f219cc43ab43c9d8ea1390b105dd.png",
           "tvgName": "Warner"
         },
         {
           "name": "STAR CHANNEL FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40706.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40706.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c85b8a04f06ffa680ed4d64295c36005.png",
           "tvgName": "STAR"
         },
         {
           "name": "STAR CHANNEL HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40707.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40707.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/6b34289b609848da5455a9ca7424916d.png",
           "tvgName": "STAR"
         }
@@ -394,133 +394,133 @@
       "canais": [
         {
           "name": "Adult Swim FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40455.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40455.m3u8",
           "logoUrl": "",
           "tvgName": "Adult"
         },
         {
           "name": "Baby TV",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40465.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40465.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/59d2f9763a550de79fa3396f89842a64.png",
           "tvgName": "Baby"
         },
         {
           "name": "Cartoon Network FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40491.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40491.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/78ef990112bb5d4a29f0a428eaddf7ca.png",
           "tvgName": "Cartoon"
         },
         {
           "name": "Cartoon Network HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40492.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40492.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/47dcb2611000c394cae74fc131450e49.png",
           "tvgName": "Cartoon"
         },
         {
           "name": "Cartoonito FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40493.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40493.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/9dcebecf78850ffc4ddc6f0a26d3d084.png",
           "tvgName": "Cartoonito"
         },
         {
           "name": "Cartoonito HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40494.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40494.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/9dcebecf78850ffc4ddc6f0a26d3d084.png",
           "tvgName": "Cartoonito"
         },
         {
           "name": "Discovery Kids FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40513.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40513.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1f58772c931f2418cbd210e218afe051.png",
           "tvgName": "Discovery"
         },
         {
           "name": "Discovery Kids HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40514.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40514.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1f58772c931f2418cbd210e218afe051.png",
           "tvgName": "Discovery"
         },
         {
           "name": "Disney Channel HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40515.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40515.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/442721a7cbb27380ef4f78d768b745ce.png",
           "tvgName": "Disney"
         },
         {
           "name": "Gloob FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40580.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40580.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/04f8021d10020e98433f3f2566a1e3e5.png",
           "tvgName": "Gloob"
         },
         {
           "name": "Gloob HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40581.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40581.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/04f8021d10020e98433f3f2566a1e3e5.png",
           "tvgName": "Gloob"
         },
         {
           "name": "Gloobinho FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40582.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40582.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/9978abdc323aa88c2616c5ed4b73b91d.png",
           "tvgName": "Gloobinho"
         },
         {
           "name": "Gloobinho HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40583.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40583.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/9978abdc323aa88c2616c5ed4b73b91d.png",
           "tvgName": "Gloobinho"
         },
         {
           "name": "Like FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40612.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40612.m3u8",
           "logoUrl": "",
           "tvgName": "Like"
         },
         {
           "name": "Like HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40613.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40613.m3u8",
           "logoUrl": "",
           "tvgName": "Like"
         },
         {
           "name": "Nick Jr. FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40630.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40630.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/52bbe21a2402a9cd83aa5b7846658876.png",
           "tvgName": "Nick"
         },
         {
           "name": "Nick Jr. HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40631.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40631.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/4e5d157fa802b6b77de7746c41ebdfd6.png",
           "tvgName": "Nick"
         },
         {
           "name": "Nickelodeon FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40632.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40632.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/eaef4c0db07831bed5e26ed9e96be64b.png",
           "tvgName": "Nickelodeon"
         },
         {
           "name": "Nickelodeon HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40633.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40633.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/eaef4c0db07831bed5e26ed9e96be64b.png",
           "tvgName": "Nickelodeon"
         },
         {
           "name": "Zoomoo HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40760.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40760.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ba331c038a511149013e5403cbec3819.png",
           "tvgName": "Zoomoo"
         },
         {
           "name": "Adult Swim HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40771.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40771.m3u8",
           "logoUrl": "",
           "tvgName": "Adult"
         },
         {
           "name": "TV Rá Tim Bum HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40740.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40740.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/dc069fdbd0604b79dd11881fc5955205.png",
           "tvgName": "TV"
         }
@@ -531,229 +531,229 @@
       "canais": [
         {
           "name": "AgroMais FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40456.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40456.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/56093628c4ed5442ad3971c4de50fe22.png",
           "tvgName": "AgroMais"
         },
         {
           "name": "AgroMais HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40457.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40457.m3u8",
           "logoUrl": "http://162.19.170.138:80/images/c0fa1a98b47ed41a11ee9a571305b1e3.png",
           "tvgName": "AgroMais"
         },
         {
           "name": "Arte 1 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40462.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40462.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c3c5b56cb05e6834f14a4111c18679cb.png",
           "tvgName": "Arte"
         },
         {
           "name": "Canal Brasil FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40483.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40483.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/b3a005ba17c51ed189f0ebb13dfbf09c.png",
           "tvgName": "Canal"
         },
         {
           "name": "Canal Brasil HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40484.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40484.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/0467da42ef01c3277060cd13c10fb53d.png",
           "tvgName": "Canal"
         },
         {
           "name": "Comedy Central FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40507.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40507.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/9aa291387f5ecdf7e65145705fa9d5df.png",
           "tvgName": "Comedy"
         },
         {
           "name": "Comedy Central HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40508.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40508.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/9aa291387f5ecdf7e65145705fa9d5df.png",
           "tvgName": "Comedy"
         },
         {
           "name": "Curta! FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40509.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40509.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/86dca6863b8f42e2abe2c201378cbf24.png",
           "tvgName": "Curta!"
         },
         {
           "name": "Curta! HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40510.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40510.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/86dca6863b8f42e2abe2c201378cbf24.png",
           "tvgName": "Curta!"
         },
         {
           "name": "E! FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40519.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40519.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/835fbebd98ee80d2f33bb3e4f99ba8b2.png",
           "tvgName": "E!"
         },
         {
           "name": "E! HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40520.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40520.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/835fbebd98ee80d2f33bb3e4f99ba8b2.png",
           "tvgName": "E!"
         },
         {
           "name": "Fashion TV HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40534.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40534.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ec73a919af384f8619120a47fbb160e1.png",
           "tvgName": "Fashion"
         },
         {
           "name": "Fish TV FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40537.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40537.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1b77db369a00b1e0279c198558a76d34.png",
           "tvgName": "Fish"
         },
         {
           "name": "Fish TV HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40538.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40538.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1b77db369a00b1e0279c198558a76d34.png",
           "tvgName": "Fish"
         },
         {
           "name": "FX FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40547.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40547.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ffbea79c3183061f74871543459af751.png",
           "tvgName": "FX"
         },
         {
           "name": "FX HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40548.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40548.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ffbea79c3183061f74871543459af751.png",
           "tvgName": "FX"
         },
         {
           "name": "Gazeta FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40549.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40549.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/d2fbe38466cc4f952d71388b454d6205.png",
           "tvgName": "Gazeta"
         },
         {
           "name": "Gazeta HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40550.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40550.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/d2fbe38466cc4f952d71388b454d6205.png",
           "tvgName": "Gazeta"
         },
         {
           "name": "GNT FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40584.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40584.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ed5f4109b553f902a5fba06f527cf770.png",
           "tvgName": "GNT"
         },
         {
           "name": "GNT HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40585.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40585.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ed5f4109b553f902a5fba06f527cf770.png",
           "tvgName": "GNT"
         },
         {
           "name": "Lifetime FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40610.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40610.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f042ae278735ad5a757a8ab3b1e25a40.png",
           "tvgName": "Lifetime"
         },
         {
           "name": "Lifetime HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40611.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40611.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f042ae278735ad5a757a8ab3b1e25a40.png",
           "tvgName": "Lifetime"
         },
         {
           "name": "Megapix FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40616.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40616.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c6c063155713c2fb71ed78874939052b.png",
           "tvgName": "Megapix"
         },
         {
           "name": "Megapix HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40617.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40617.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c6c063155713c2fb71ed78874939052b.png",
           "tvgName": "Megapix"
         },
         {
           "name": "NHK",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40629.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40629.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/a50dec592005095be5daff59a0fad865.png",
           "tvgName": "NHK"
         },
         {
           "name": "OFF FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40642.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40642.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c599f265a01729ef4b2bb37d39f68348.png",
           "tvgName": "OFF"
         },
         {
           "name": "OFF HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40643.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40643.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c599f265a01729ef4b2bb37d39f68348.png",
           "tvgName": "OFF"
         },
         {
           "name": "Prime Box Brazil 4K",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40673.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40673.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/2d5de1bc0699fe82c142d46d5d5787f7.png",
           "tvgName": "Prime"
         },
         {
           "name": "Prime Box Brazil HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40674.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40674.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/48bf749c66d5a2254930ffbb7de14a95.png",
           "tvgName": "Prime"
         },
         {
           "name": "TLC FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40722.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40722.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/58f26715ec9dbaa8170500e9937dd1e0.png",
           "tvgName": "TLC"
         },
         {
           "name": "TLC HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40723.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40723.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f8b5c07c1c3cc28e2523b12e48a9f343.png",
           "tvgName": "TLC"
         },
         {
           "name": "Viva FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40750.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40750.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/5476507a5bd9245afeb91a18ad165ae6.png",
           "tvgName": "Viva"
         },
         {
           "name": "Viva HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40751.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40751.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/5476507a5bd9245afeb91a18ad165ae6.png",
           "tvgName": "Viva"
         },
         {
           "name": "Cultura FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40780.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40780.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/2c247b0e8daa6a6195db8addfb513961.png",
           "tvgName": "Cultura"
         },
         {
           "name": "Cultura HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40781.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40781.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/2c247b0e8daa6a6195db8addfb513961.png",
           "tvgName": "Cultura"
         },
         {
           "name": "Markket FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40614.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40614.m3u8",
           "logoUrl": "",
           "tvgName": "Markket"
         },
         {
           "name": "Markket HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40615.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40615.m3u8",
           "logoUrl": "",
           "tvgName": "Markket"
         },
         {
           "name": "Trace Brazuca HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40730.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40730.m3u8",
           "logoUrl": "http://162.19.170.138:80/images/1468b6e1d17454f690ba2284c920c0b2.png",
           "tvgName": "Trace"
         }
@@ -764,175 +764,175 @@
       "canais": [
         {
           "name": "Animal Planet FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40460.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40460.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1b2c27902d84ab4db136beb32d1efcca.png",
           "tvgName": "Animal"
         },
         {
           "name": "Animal Planet HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40461.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40461.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1b2c27902d84ab4db136beb32d1efcca.png",
           "tvgName": "Animal"
         },
         {
           "name": "Disc. Home & Health FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40511.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40511.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/6cd69b44128a0c3553e77e75af7d6730.png",
           "tvgName": "Disc."
         },
         {
           "name": "Disc. Home & Health HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40512.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40512.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/6cd69b44128a0c3553e77e75af7d6730.png",
           "tvgName": "Disc."
         },
         {
           "name": "HGTV FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40600.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40600.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/2f49fb24a4e850a7d0b66e44668cb0d4.png",
           "tvgName": "HGTV"
         },
         {
           "name": "HGTV HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40601.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40601.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e27ecf7c25cfc1d7c551a135f4005f3b.png",
           "tvgName": "HGTV"
         },
         {
           "name": "History 2 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40602.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40602.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/a5279a041d32a97885d3796a6efd509a.png",
           "tvgName": "History"
         },
         {
           "name": "History 2 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40603.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40603.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/a5279a041d32a97885d3796a6efd509a.png",
           "tvgName": "History"
         },
         {
           "name": "History FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40604.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40604.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/31cd59699e618f01c0b36b09d798052a.png",
           "tvgName": "History"
         },
         {
           "name": "History HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40605.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40605.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/624ee5a00b605964c76140b256df3caa.png",
           "tvgName": "History"
         },
         {
           "name": "ID FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40606.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40606.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/6e5f576d7fe868162f92a4093735fd1e.png",
           "tvgName": "ID"
         },
         {
           "name": "ID HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40607.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40607.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/6e5f576d7fe868162f92a4093735fd1e.png",
           "tvgName": "ID"
         },
         {
           "name": "Modo Viagem FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40618.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40618.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c16700d9efa08693ada8363cb7c50fe9.png",
           "tvgName": "Modo"
         },
         {
           "name": "Modo Viagem HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40619.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40619.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c16700d9efa08693ada8363cb7c50fe9.png",
           "tvgName": "Modo"
         },
         {
           "name": "Travel Box Brazil HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40731.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40731.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/7534e18d513a3069cc2edd0eb4c8c518.png",
           "tvgName": "Travel"
         },
         {
           "name": "Discovery Channel FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40782.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40782.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/5df5aa8e553bbf5d64832dd662586ab8.png",
           "tvgName": "Discovery"
         },
         {
           "name": "Discovery Channel HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40783.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40783.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/5df5aa8e553bbf5d64832dd662586ab8.png",
           "tvgName": "Discovery"
         },
         {
           "name": "Discovery Science FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40784.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40784.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/8118a8b982ae78250558dd503ee71667.png",
           "tvgName": "Discovery"
         },
         {
           "name": "Discovery Science HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40785.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40785.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/8118a8b982ae78250558dd503ee71667.png",
           "tvgName": "Discovery"
         },
         {
           "name": "Discovery Theater FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40786.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40786.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/527f704a426332098440005e7c70d81e.png",
           "tvgName": "Discovery"
         },
         {
           "name": "Discovery Turbo HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40787.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40787.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/6119e6901418202b1898f39f010ebaf2.png",
           "tvgName": "Discovery"
         },
         {
           "name": "Discovery World FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40788.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40788.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/677766ea52029728d7ad923620e529c6.png",
           "tvgName": "Discovery"
         },
         {
           "name": "Discovery World HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40789.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40789.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/677766ea52029728d7ad923620e529c6.png",
           "tvgName": "Discovery"
         },
         {
           "name": "National Geographic FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40790.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40790.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/61effae86e064255f62991eac9ba6a3a.png",
           "tvgName": "National"
         },
         {
           "name": "Discovery Theater HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40792.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40792.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/41821967b3f97b90d5c44d509c984fa7.png",
           "tvgName": "Discovery"
         },
         {
           "name": "Discovery Turbo FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40794.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40794.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/6119e6901418202b1898f39f010ebaf2.png",
           "tvgName": "Discovery"
         },
         {
           "name": "DOG TV",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40516.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40516.m3u8",
           "logoUrl": "http://162.19.170.138:80/images/e6521bede0d2875fd246c401da48b90a.png",
           "tvgName": "DOG"
         },
         {
           "name": "DOG TV FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40517.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40517.m3u8",
           "logoUrl": "http://Free.livetv2021.top:8080/images/e6521bede0d2875fd246c401da48b90a.png",
           "tvgName": "DOG"
         },
         {
           "name": "National Geographic HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40791.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40791.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/640ba3df8766aae2f12c20460eb55e2f.png",
           "tvgName": "National"
         }
@@ -943,163 +943,163 @@
       "canais": [
         {
           "name": "Band Curitiba FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40466.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40466.m3u8",
           "logoUrl": "",
           "tvgName": "Band"
         },
         {
           "name": "Band Curitiba HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40467.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40467.m3u8",
           "logoUrl": "",
           "tvgName": "Band"
         },
         {
           "name": "Band FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40468.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40468.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/7bf5546d5d8bd7bf54bf28f51780f66b.png",
           "tvgName": "Band"
         },
         {
           "name": "Band HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40469.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40469.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/7bf5546d5d8bd7bf54bf28f51780f66b.png",
           "tvgName": "Band"
         },
         {
           "name": "Canal do Boi FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40485.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40485.m3u8",
           "logoUrl": "http://162.19.170.138:80/images/3d3373abc5505f639acb7c6a07671a1e.png",
           "tvgName": "Canal"
         },
         {
           "name": "Canal do Boi HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40486.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40486.m3u8",
           "logoUrl": "http://162.19.170.138:80/images/3d3373abc5505f639acb7c6a07671a1e.png",
           "tvgName": "Canal"
         },
         {
           "name": "RECORDTV HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40678.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40678.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3259ef1fa494b5650a538d4152497202.png",
           "tvgName": "RECORDTV"
         },
         {
           "name": "RECORDTV Santos FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40679.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40679.m3u8",
           "logoUrl": "http://162.19.170.138:80/images/5ee793cd2a0f4934e880de48dab0cd08.png",
           "tvgName": "RECORDTV"
         },
         {
           "name": "Rede Massa - SBT HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40681.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40681.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e905b4c4241aa1ec203b04949b1a7be6.png",
           "tvgName": "Rede"
         },
         {
           "name": "RedeTV! FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40684.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40684.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/272f8c0faa837e88a58fe96c8545d092.png",
           "tvgName": "RedeTV!"
         },
         {
           "name": "RedeTV! HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40685.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40685.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/774fd52025aeae94bc145aed61c0bb90.png",
           "tvgName": "RedeTV!"
         },
         {
           "name": "RIC TV - RECORDTV",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40686.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40686.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3259ef1fa494b5650a538d4152497202.png",
           "tvgName": "RIC"
         },
         {
           "name": "SBT FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40689.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40689.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/414fbe386b62b7619c51451f0f2f71c9.png",
           "tvgName": "SBT"
         },
         {
           "name": "SBT HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40690.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40690.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/5c0d1ba44f777577d6723d6b88ecb849.png",
           "tvgName": "SBT"
         },
         {
           "name": "SBT SD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40761.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40761.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/5c0d1ba44f777577d6723d6b88ecb849.png",
           "tvgName": "SBT"
         },
         {
           "name": "RECORD - BAHIA",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40773.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40773.m3u8",
           "logoUrl": "",
           "tvgName": "RECORD"
         },
         {
           "name": "RECORD GO HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40775.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40775.m3u8",
           "logoUrl": "",
           "tvgName": "RECORD"
         },
         {
           "name": "RECORD MINAS HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40777.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40777.m3u8",
           "logoUrl": "",
           "tvgName": "RECORD"
         },
         {
           "name": "RECORD RS HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40778.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40778.m3u8",
           "logoUrl": "",
           "tvgName": "RECORD"
         },
         {
           "name": "Band Santos FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40472.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40472.m3u8",
           "logoUrl": "",
           "tvgName": "Band"
         },
         {
           "name": "RAI SD.",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40675.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40675.m3u8",
           "logoUrl": "",
           "tvgName": "RAI"
         },
         {
           "name": "VTV - SBT SANTOS FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40752.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40752.m3u8",
           "logoUrl": "http://162.19.170.138:80/images/a9a8076d5ee6bc11b45b5f48c7bc156b.png",
           "tvgName": "VTV"
         },
         {
           "name": "RECORD BRASILIA HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40774.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40774.m3u8",
           "logoUrl": "",
           "tvgName": "RECORD"
         },
         {
           "name": "RECORD MANAUS HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40776.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40776.m3u8",
           "logoUrl": "",
           "tvgName": "RECORD"
         },
         {
           "name": "RECORDTV Santos HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40680.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40680.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/91a2eceffad19024e58087f6d547d475.png",
           "tvgName": "RECORDTV"
         },
         {
           "name": "VTV - SBT SANTOS HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40753.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40753.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/414fbe386b62b7619c51451f0f2f71c9.png",
           "tvgName": "VTV"
         },
         {
           "name": "Band Santos HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40473.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40473.m3u8",
           "logoUrl": "",
           "tvgName": "Band"
         }
@@ -1110,163 +1110,163 @@
       "canais": [
         {
           "name": "Band News FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40470.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40470.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/d85f9d41be6da58d785e5e21eaac97b6.png",
           "tvgName": "Band"
         },
         {
           "name": "Band News HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40471.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40471.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/d85f9d41be6da58d785e5e21eaac97b6.png",
           "tvgName": "Band"
         },
         {
           "name": "Bloomberg",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40479.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40479.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ca4163661c0c68b719a20d30e513da7a.png",
           "tvgName": "Bloomberg"
         },
         {
           "name": "BM&C NEWS HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40480.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40480.m3u8",
           "logoUrl": "",
           "tvgName": "BM&C"
         },
         {
           "name": "Boomerang FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40481.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40481.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/d5bf5baf3edfa354535dd3361305145d.png",
           "tvgName": "Boomerang"
         },
         {
           "name": "Boomerang HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40482.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40482.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/d5bf5baf3edfa354535dd3361305145d.png",
           "tvgName": "Boomerang"
         },
         {
           "name": "CNN Brasil FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40500.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40500.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1005bb03e0193c21bca353ccda55ed2a.png",
           "tvgName": "CNN"
         },
         {
           "name": "CNN Brasil HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40501.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40501.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1005bb03e0193c21bca353ccda55ed2a.png",
           "tvgName": "CNN"
         },
         {
           "name": "CNN International",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40503.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40503.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/42dd08e39d7a366a0eacf64aa3b2a838.png",
           "tvgName": "CNN"
         },
         {
           "name": "Eurochannel FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40532.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40532.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c3a253f9d31543859cd52bc5a90ce01e.png",
           "tvgName": "Eurochannel"
         },
         {
           "name": "Eurochannel HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40533.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40533.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1eb12f908e84a78620e70a5b94d28210.png",
           "tvgName": "Eurochannel"
         },
         {
           "name": "France 24 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40543.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40543.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/46c3440cdd2dace0f4978f977a1f3384.png",
           "tvgName": "France"
         },
         {
           "name": "France 24 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40544.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40544.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/46c3440cdd2dace0f4978f977a1f3384.png",
           "tvgName": "France"
         },
         {
           "name": "JP News FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40608.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40608.m3u8",
           "logoUrl": "",
           "tvgName": "JP"
         },
         {
           "name": "JP News HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40609.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40609.m3u8",
           "logoUrl": "",
           "tvgName": "JP"
         },
         {
           "name": "Record News FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40676.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40676.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/0bb768591ccc6f6c5f3993dda334a7bf.png",
           "tvgName": "Record"
         },
         {
           "name": "Record News HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40677.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40677.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/0bb768591ccc6f6c5f3993dda334a7bf.png",
           "tvgName": "Record"
         },
         {
           "name": "TV Brasil FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40734.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40734.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1d4eb7ecd837515527a21a51bbcba823.png",
           "tvgName": "TV"
         },
         {
           "name": "TV Brasil HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40735.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40735.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1143f7fffe4af54f556e1acb2925256a.png",
           "tvgName": "TV"
         },
         {
           "name": "USA Network FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40747.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40747.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3bd4516a1ff166f5126f970df35c2929.png",
           "tvgName": "USA"
         },
         {
           "name": "USA Network HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40748.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40748.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3bd4516a1ff166f5126f970df35c2929.png",
           "tvgName": "USA"
         },
         {
           "name": "BBC",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40477.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40477.m3u8",
           "logoUrl": "http://162.19.170.138:80/images/2efb88374c6c1a0e856b28456bfd5cba.png",
           "tvgName": "BBC"
         },
         {
           "name": "DW (Deutsch+)",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40518.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40518.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/b310444f68ef2f300290033a2361b3a3.png",
           "tvgName": "DW"
         },
         {
           "name": "CNN ESPAÑOL",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40502.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40502.m3u8",
           "logoUrl": "",
           "tvgName": "CNN"
         },
         {
           "name": "TV Câmara",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40737.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40737.m3u8",
           "logoUrl": "http://162.19.170.138:80/images/13d4b6bf8e09c71573cdc60130ce2435.png",
           "tvgName": "TV"
         },
         {
           "name": "TV Justiça SD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40738.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40738.m3u8",
           "logoUrl": "http://162.19.170.138:80/images/900522a322f3b6efe7568432f3b59e8f.png",
           "tvgName": "TV"
         },
         {
           "name": "TV5 MONDE SD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40742.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40742.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/2622dd4053f8b9fc40c2fc209634edcd.png",
           "tvgName": "TV5"
         }
@@ -1277,337 +1277,337 @@
       "canais": [
         {
           "name": "Band Sports FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40475.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40475.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/9795da5e2f0283fac7fe034e8f92fcfe.png",
           "tvgName": "Band"
         },
         {
           "name": "Band Sports HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40476.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40476.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1f60fe14be117a16374297466b76b716.png",
           "tvgName": "Band"
         },
         {
           "name": "Combate FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40504.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40504.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1eb78cc8fee6e6d94c259f92d7b38247.png",
           "tvgName": "Combate"
         },
         {
           "name": "Combate HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40505.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40505.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1eb78cc8fee6e6d94c259f92d7b38247.png",
           "tvgName": "Combate"
         },
         {
           "name": "ESPN 2 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40521.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40521.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/a687416f6dc1c7b016a6100805d84a3a.png",
           "tvgName": "ESPN"
         },
         {
           "name": "ESPN 2 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40522.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40522.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/356ae6e66df990ade82ff6106b7c88bf.png",
           "tvgName": "ESPN"
         },
         {
           "name": "ESPN 3 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40523.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40523.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3b9b271f6007862fd636b7f12bcd3fcb.png",
           "tvgName": "ESPN"
         },
         {
           "name": "ESPN 3 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40524.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40524.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3b9b271f6007862fd636b7f12bcd3fcb.png",
           "tvgName": "ESPN"
         },
         {
           "name": "ESPN 4 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40525.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40525.m3u8",
           "logoUrl": "http://ggrrth.htvsat.info:8880/images/c3311ae022dd1549905c76ff4a0c7d39.png",
           "tvgName": "ESPN"
         },
         {
           "name": "ESPN 4 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40526.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40526.m3u8",
           "logoUrl": "http://ggrrth.htvsat.info:8880/images/c3311ae022dd1549905c76ff4a0c7d39.png",
           "tvgName": "ESPN"
         },
         {
           "name": "ESPN 6 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40527.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40527.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/388dbd6ebfe0f567d9f6be6e71dfaa99.png",
           "tvgName": "ESPN"
         },
         {
           "name": "ESPN 6 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40528.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40528.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/30cf8d50b0f7dd70da5934186f801b71.png",
           "tvgName": "ESPN"
         },
         {
           "name": "ESPN FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40529.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40529.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/0bab5adfed0ad719b97ce7eb8a26a806.png",
           "tvgName": "ESPN"
         },
         {
           "name": "ESPN HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40530.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40530.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/79477bdf7473e11960d88f2b0ea20169.png",
           "tvgName": "ESPN"
         },
         {
           "name": "ESPN 5 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40541.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40541.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/39765bdfa3a41613c5305b20a11d72c9.png",
           "tvgName": "ESPN"
         },
         {
           "name": "ESPN 5 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40542.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40542.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/6f7b0ed5afb2ad40d32979afd2b9b6a1.png",
           "tvgName": "ESPN"
         },
         {
           "name": "Nosso Futebol 1 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40634.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40634.m3u8",
           "logoUrl": "",
           "tvgName": "Nosso"
         },
         {
           "name": "Nosso Futebol 1 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40635.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40635.m3u8",
           "logoUrl": "",
           "tvgName": "Nosso"
         },
         {
           "name": "Nosso Futebol 2 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40636.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40636.m3u8",
           "logoUrl": "",
           "tvgName": "Nosso"
         },
         {
           "name": "Nosso Futebol 2 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40637.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40637.m3u8",
           "logoUrl": "",
           "tvgName": "Nosso"
         },
         {
           "name": "Nosso Futebol 3 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40638.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40638.m3u8",
           "logoUrl": "",
           "tvgName": "Nosso"
         },
         {
           "name": "Nosso Futebol 4 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40640.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40640.m3u8",
           "logoUrl": "",
           "tvgName": "Nosso"
         },
         {
           "name": "Premiere 2 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40657.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40657.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c6b4f9970dc5a55480784d592ea5539c.png",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 2 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40658.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40658.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c6b4f9970dc5a55480784d592ea5539c.png",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 3 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40659.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40659.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f9934f55df9e4987d3c6ea83aa17a51d.png",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 3 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40660.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40660.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/0a50cad0c8ac265d35a77607bacd3dd9.png",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 4 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40661.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40661.m3u8",
           "logoUrl": "http://149.202.69.23/BnDFf2AM/resize?maxw",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 4 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40662.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40662.m3u8",
           "logoUrl": "http://149.202.69.23/BnDFf2AM/resize?maxw",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 4 SD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40663.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40663.m3u8",
           "logoUrl": "http://149.202.69.23/BnDFf2AM/resize?maxw",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 5 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40664.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40664.m3u8",
           "logoUrl": "",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 5 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40665.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40665.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/0a50cad0c8ac265d35a77607bacd3dd9.png",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 6 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40666.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40666.m3u8",
           "logoUrl": "",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 6 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40667.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40667.m3u8",
           "logoUrl": "",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 7 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40668.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40668.m3u8",
           "logoUrl": "",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 7 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40669.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40669.m3u8",
           "logoUrl": "",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere 8",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40670.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40670.m3u8",
           "logoUrl": "",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere Clubes FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40671.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40671.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/471d799ff99c695b8d8f1630f3a80328.png",
           "tvgName": "Premiere"
         },
         {
           "name": "Premiere Clubes HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40672.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40672.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/471d799ff99c695b8d8f1630f3a80328.png",
           "tvgName": "Premiere"
         },
         {
           "name": "SporTV + 4K",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40698.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40698.m3u8",
           "logoUrl": "",
           "tvgName": "SporTV"
         },
         {
           "name": "SporTV FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40699.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40699.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/47e61cf09e9011131ac11efc28a2f5c4.png",
           "tvgName": "SporTV"
         },
         {
           "name": "SporTV HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40700.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40700.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/fcedc14723db2442f7027302bd38d5e2.png",
           "tvgName": "SporTV"
         },
         {
           "name": "SporTV2 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40701.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40701.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e0b3e9bc1e1856e95dae148929fb7482.png",
           "tvgName": "SporTV2"
         },
         {
           "name": "SporTV2 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40702.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40702.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/2773a26cb94393409fd834b7be857218.png",
           "tvgName": "SporTV2"
         },
         {
           "name": "SporTV3 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40703.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40703.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/36c9b84eb76cbc96c4bc5e36036773b4.png",
           "tvgName": "SporTV3"
         },
         {
           "name": "SporTV3 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40704.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40704.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/269f7ff247b3a3680c32f3b72a91cd92.png",
           "tvgName": "SporTV3"
         },
         {
           "name": "UFC 4K",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40744.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40744.m3u8",
           "logoUrl": "",
           "tvgName": "UFC"
         },
         {
           "name": "Woohoo FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40757.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40757.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e421d123a5c7830a7bad0cd41d6d2c5a.png",
           "tvgName": "Woohoo"
         },
         {
           "name": "Woohoo HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40758.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40758.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e421d123a5c7830a7bad0cd41d6d2c5a.png",
           "tvgName": "Woohoo"
         },
         {
           "name": "Amazon prime HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40763.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40763.m3u8",
           "logoUrl": "",
           "tvgName": "Amazon"
         },
         {
           "name": "FOXSPORTS PREMIUN HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40779.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40779.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/00669e8679819689b7fdd3214c65c4db.png",
           "tvgName": "FOXSPORTS"
         },
         {
           "name": "Furacão 4K",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40793.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40793.m3u8",
           "logoUrl": "",
           "tvgName": "Furacão"
         },
         {
           "name": "Nosso Futebol 3 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40639.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40639.m3u8",
           "logoUrl": "",
           "tvgName": "Nosso"
         },
         {
           "name": "Nosso Futebol 4 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40641.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40641.m3u8",
           "logoUrl": "",
           "tvgName": "Nosso"
         },
         {
           "name": "Cazé TV 1 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40766.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40766.m3u8",
           "logoUrl": "",
           "tvgName": "Cazé"
         },
         {
           "name": "Cazé TV 2 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40767.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40767.m3u8",
           "logoUrl": "",
           "tvgName": "Cazé"
         },
         {
           "name": "Amazon prime 2 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40772.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40772.m3u8",
           "logoUrl": "",
           "tvgName": "Amazon"
         }
@@ -1618,61 +1618,61 @@
       "canais": [
         {
           "name": "BIS HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40478.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40478.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/aba4f1faaecf1ea449d5dee80e7227fb.png",
           "tvgName": "BIS"
         },
         {
           "name": "MTV FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40620.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40620.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e1102a5af98af41960de3de86f0e7c03.png",
           "tvgName": "MTV"
         },
         {
           "name": "MTV HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40621.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40621.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e1102a5af98af41960de3de86f0e7c03.png",
           "tvgName": "MTV"
         },
         {
           "name": "MTV LIVE HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40622.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40622.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ee667512cedcdfdac1414581bf49c9b3.png",
           "tvgName": "MTV"
         },
         {
           "name": "MTV's 00 FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40623.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40623.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ec5dcfae40bd468bd327ce90a0465433.png",
           "tvgName": "MTV's"
         },
         {
           "name": "MTV's 00 HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40624.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40624.m3u8",
           "logoUrl": "",
           "tvgName": "MTV's"
         },
         {
           "name": "Multishow FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40625.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40625.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c07d44e87603432d3c2c4aab539465fd.png",
           "tvgName": "Multishow"
         },
         {
           "name": "Multishow HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40626.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40626.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c07d44e87603432d3c2c4aab539465fd.png",
           "tvgName": "Multishow"
         },
         {
           "name": "Music Box Brazil FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40627.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40627.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/70d84e7e67e1c9d085cc581ebed18bac.png",
           "tvgName": "Music"
         },
         {
           "name": "Music Box Brazil HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40628.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40628.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/dcf8937feeda6606c1d959f0bed08a99.png",
           "tvgName": "Music"
         }
@@ -1683,19 +1683,19 @@
       "canais": [
         {
           "name": "Canal Rural HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40488.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40488.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/1bf469eb32aa9ed6acd9df481b4c38a4.png",
           "tvgName": "Canal"
         },
         {
           "name": "Futura FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40545.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40545.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e8e3cc9e21a24a0933279aeafcf21197.png",
           "tvgName": "Futura"
         },
         {
           "name": "Futura HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40546.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40546.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e8e3cc9e21a24a0933279aeafcf21197.png",
           "tvgName": "Futura"
         }
@@ -1706,79 +1706,79 @@
       "canais": [
         {
           "name": "CBI FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40495.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40495.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/fab2c69d5d3951ef88e8cac7e7d2bfef.png",
           "tvgName": "CBI"
         },
         {
           "name": "CBI HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40496.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40496.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/fab2c69d5d3951ef88e8cac7e7d2bfef.png",
           "tvgName": "CBI"
         },
         {
           "name": "Rede Vida FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40682.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40682.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e0a19d6cdaade1189a498f7d942b85cb.png",
           "tvgName": "Rede"
         },
         {
           "name": "Rede Vida HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40683.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40683.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/d26016db72629bf49230d8e5dd11496c.png",
           "tvgName": "Rede"
         },
         {
           "name": "Shoptime",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40694.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40694.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/0d7aceb9f35c2c669c2e355670a4e84b.png",
           "tvgName": "Shoptime"
         },
         {
           "name": "TV Aparecida FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40732.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40732.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/50e650cb88764b5a66873231502969f9.png",
           "tvgName": "TV"
         },
         {
           "name": "TV Aparecida HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40733.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40733.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/50e650cb88764b5a66873231502969f9.png",
           "tvgName": "TV"
         },
         {
           "name": "TV Canção Nova",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40736.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40736.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e6ba25527db9fcd2d1e85e81ff05f1b1.png",
           "tvgName": "TV"
         },
         {
           "name": "TV Novo Tempo HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40739.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40739.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/5900d4017695da25ca6e4bef3fc52e39.png",
           "tvgName": "TV"
         },
         {
           "name": "Pai Eterno FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40644.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40644.m3u8",
           "logoUrl": "",
           "tvgName": "Pai"
         },
         {
           "name": "Pai Eterno HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40645.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40645.m3u8",
           "logoUrl": "",
           "tvgName": "Pai"
         },
         {
           "name": "SIC Internacional",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40695.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40695.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/fae016dbbad38d9e639a5d17ee9cafd5.png",
           "tvgName": "SIC"
         },
         {
           "name": "TVE ESPANHA SD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40743.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40743.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/396662fe40df6ccaf1ff585584bcf79d.png",
           "tvgName": "TVE"
         }
@@ -1789,13 +1789,13 @@
       "canais": [
         {
           "name": "Food Network FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40539.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40539.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e805930df61d5f80515143a9755a9351.png",
           "tvgName": "Food"
         },
         {
           "name": "Food Network HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40540.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40540.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e805930df61d5f80515143a9755a9351.png",
           "tvgName": "Food"
         }
@@ -1806,175 +1806,175 @@
       "canais": [
         {
           "name": "Globo Brasília HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40551.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40551.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ec9c9040d3c02027c34bb627b1b33bc0.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo Brasília SD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40552.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40552.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ec9c9040d3c02027c34bb627b1b33bc0.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo EPTV HD Campinas",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40553.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40553.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/8361d7909dad36761607deed6ca2d4a2.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo EPTV Ribeirão Preto",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40554.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40554.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/6ff6b492e05060ec8bd2e75f2c00d02c.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo EPTV SD Campinas",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40555.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40555.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/8361d7909dad36761607deed6ca2d4a2.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo EPTV São Carlos",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40556.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40556.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/8d83030d12dc21f7dd11d2c66c63bcfd.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo Inter TV Cabugi",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40557.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40557.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/5d9ebbbf913858618ddeaa2b58e8780d.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo Minas HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40558.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40558.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/d6872c852f4e24454a4440ccc0b61b10.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo Nordeste HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40559.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40559.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/88fc2048719fe6ec1e6e3e2fcaf4e90e.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo RBS TV HD Porto Alegre",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40560.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40560.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/e2d984881d193d16872e7ab5108493a2.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo Rede Amazônica Manaus HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40561.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40561.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/d5fadef01d02920c7528dd56fe5c5f22.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo RJ HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40562.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40562.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/234db72385656d635284a8d643e0e797.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo RPC TV Curitiba - Globo FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40563.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40563.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/71e50914ff05f5c9ea3658faeeb33b4e.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo RPC TV Curitiba HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40564.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40564.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/71e50914ff05f5c9ea3658faeeb33b4e.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo SANTOS FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40565.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40565.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/60878975247bdb92bda0b92e33fdd011.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo SP FHD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40567.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40567.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3e0fee5829e279af0e4c1bd4bce90846.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo SP HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40568.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40568.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3e0fee5829e279af0e4c1bd4bce90846.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo TV Anhanguera Goiânia HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40569.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40569.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/dd5e192a7773a6b5ada5ef88b6824327.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo TV Bahia HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40570.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40570.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/c087b3b742cdde9db52b420329b75c95.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo TV Centro América Cuiabá",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40571.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40571.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/de5b6f86309ef9a16c186c82de6148a2.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo TV Liberal HD Belém",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40572.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40572.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f4c54e15147c140e11da678b8dc29441.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo TV Tem HD Bauru",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40573.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40573.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f61255fd3b811c33b6a6958fed803463.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo TV Tem Sorocaba",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40574.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40574.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/f285845822012c4e148abad23cb7a8f3.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo TV Tem São José do Rio Preto",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40575.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40575.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/356e9bd5074ae1757b7bf53219f2823c.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo TV Vanguarda S. J. dos Campos",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40576.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40576.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/60e61ec44462a422408147fccdd9cd27.png",
           "tvgName": "Globo"
         },
         {
           "name": "Globo TV Verdes Mares HD Fortaleza",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40577.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40577.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/ac29c683ca6380303b0ed3d71fef0a88.png",
           "tvgName": "Globo"
         },
         {
           "name": "GloboNews HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40578.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40578.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/adc984f712ffbb724d4e387d97d62f89.png",
           "tvgName": "GloboNews"
         },
         {
           "name": "GloboNews SD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40579.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40579.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/adc984f712ffbb724d4e387d97d62f89.png",
           "tvgName": "GloboNews"
         },
         {
           "name": "Globo SANTOS HD",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/40566.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/40566.m3u8",
           "logoUrl": "http://xcui.vitvabc.xyz:8880/images/3e0fee5829e279af0e4c1bd4bce90846.png",
           "tvgName": "Globo"
         }
@@ -1985,37 +1985,37 @@
       "canais": [
         {
           "name": "A Fazenda 16 HD | Cam 01",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/41122.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/41122.m3u8",
           "logoUrl": "",
           "tvgName": "A"
         },
         {
           "name": "A Fazenda 16 HD | Cam 02",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/41123.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/41123.m3u8",
           "logoUrl": "",
           "tvgName": "A"
         },
         {
           "name": "A Fazenda 16 HD | Cam 03",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/41124.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/41124.m3u8",
           "logoUrl": "",
           "tvgName": "A"
         },
         {
           "name": "A Fazenda 16 HD | Cam 04",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/41125.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/41125.m3u8",
           "logoUrl": "",
           "tvgName": "A"
         },
         {
           "name": "A Fazenda 16 HD | Cam 05",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/41126.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/41126.m3u8",
           "logoUrl": "",
           "tvgName": "A"
         },
         {
           "name": "A Fazenda 16 HD | Cam 06",
-          "url": "http://xcui.vitvabc.xyz:80/123456/654321/41127.m3u8",
+          "url": "http://xcui.vitvabc.xyz:8880/live/123456/654321/41127.m3u8",
           "logoUrl": "",
           "tvgName": "A"
         }
