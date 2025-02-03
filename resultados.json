@@ -1,65 +1,6 @@
 {
   "groups": [
     {
-      "name": "A FAZENDA - 2024",
-      "canais": [
-        {
-          "name": "A FAZENDA 16 [CAM 01]",
-          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366946.m3u8",
-          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
-          "tvgName": "A"
-        },
-        {
-          "name": "A FAZENDA 16  CAM 01",
-          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366947.m3u8",
-          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
-          "tvgName": "A"
-        },
-        {
-          "name": "A FAZENDA 16 CAM 02",
-          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366948.m3u8",
-          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
-          "tvgName": "A"
-        },
-        {
-          "name": "A FAZENDA 16 CAM 03",
-          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366949.m3u8",
-          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
-          "tvgName": "A"
-        },
-        {
-          "name": "A FAZENDA 16 CAM 04",
-          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366950.m3u8",
-          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
-          "tvgName": "A"
-        },
-        {
-          "name": "A FAZENDA 16 CAM 05",
-          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366951.m3u8",
-          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
-          "tvgName": "A"
-        },
-        {
-          "name": "A FAZENDA 16 CAM 06",
-          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366952.m3u8",
-          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
-          "tvgName": "A"
-        },
-        {
-          "name": "A FAZENDA 16 CAM 07",
-          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366953.m3u8",
-          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
-          "tvgName": "A"
-        },
-        {
-          "name": "A FAZENDA 16 CAM 08",
-          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366954.m3u8",
-          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
-          "tvgName": "A"
-        }
-      ]
-    },
-    {
       "name": "JOGOS DE HOJE ⚽",
       "canais": [
         {
@@ -5616,6 +5557,65 @@
       ]
     },
     {
+      "name": "A FAZENDA - 2024",
+      "canais": [
+        {
+          "name": "A FAZENDA 16 [CAM 01]",
+          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366946.m3u8",
+          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
+          "tvgName": "A"
+        },
+        {
+          "name": "A FAZENDA 16  CAM 01",
+          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366947.m3u8",
+          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
+          "tvgName": "A"
+        },
+        {
+          "name": "A FAZENDA 16 CAM 02",
+          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366948.m3u8",
+          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
+          "tvgName": "A"
+        },
+        {
+          "name": "A FAZENDA 16 CAM 03",
+          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366949.m3u8",
+          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
+          "tvgName": "A"
+        },
+        {
+          "name": "A FAZENDA 16 CAM 04",
+          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366950.m3u8",
+          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
+          "tvgName": "A"
+        },
+        {
+          "name": "A FAZENDA 16 CAM 05",
+          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366951.m3u8",
+          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
+          "tvgName": "A"
+        },
+        {
+          "name": "A FAZENDA 16 CAM 06",
+          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366952.m3u8",
+          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
+          "tvgName": "A"
+        },
+        {
+          "name": "A FAZENDA 16 CAM 07",
+          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366953.m3u8",
+          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
+          "tvgName": "A"
+        },
+        {
+          "name": "A FAZENDA 16 CAM 08",
+          "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/366954.m3u8",
+          "logoUrl": "http://topxz.live/logos/abertos/Fazenda.png",
+          "tvgName": "A"
+        }
+      ]
+    },
+    {
       "name": "CANAIS: 24 HORAS",
       "canais": [
         {
@@ -6359,6 +6359,83 @@
           "url": "http://infosrvdp.net:80/live/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/288364.m3u8",
           "logoUrl": "data:image/png;base64",
           "tvgName": "POP"
+        }
+      ]
+    },
+    {
+      "name": "SÉRIES | LEGENDADAS",
+      "canais": [
+        {
+          "name": "A Condition Called Love [L] S01 E01",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543734.mp4.m3u8",
+          "logoUrl": "http://timg.bdta.pro/t/p/w600_and_h900_bestv2/2v9s5BdL4lJW60wRrtHypPqz36M.jpg",
+          "tvgName": "A"
+        },
+        {
+          "name": "A Condition Called Love [L] S01 E02",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543735.mp4.m3u8",
+          "logoUrl": "https://image.tmdb.org/t/p/w780/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg",
+          "tvgName": "A"
+        },
+        {
+          "name": "A Condition Called Love [L] S01 E03",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543736.mp4.m3u8",
+          "logoUrl": "https://image.tmdb.org/t/p/w780/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg",
+          "tvgName": "A"
+        },
+        {
+          "name": "A Condition Called Love [L] S01 E04",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543737.mp4.m3u8",
+          "logoUrl": "https://image.tmdb.org/t/p/w780/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg",
+          "tvgName": "A"
+        },
+        {
+          "name": "A Condition Called Love [L] S01 E05",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543738.mp4.m3u8",
+          "logoUrl": "https://image.tmdb.org/t/p/w780/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg",
+          "tvgName": "A"
+        },
+        {
+          "name": "A Condition Called Love [L] S01 E06",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543739.mp4.m3u8",
+          "logoUrl": "https://image.tmdb.org/t/p/w780/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg",
+          "tvgName": "A"
+        },
+        {
+          "name": "A Condition Called Love [L] S01 E07",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543740.mp4.m3u8",
+          "logoUrl": "https://image.tmdb.org/t/p/w780/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg",
+          "tvgName": "A"
+        },
+        {
+          "name": "A Condition Called Love [L] S01 E08",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543741.mp4.m3u8",
+          "logoUrl": "https://image.tmdb.org/t/p/w780/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg",
+          "tvgName": "A"
+        },
+        {
+          "name": "A Condition Called Love [L] S01 E09",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543742.mp4.m3u8",
+          "logoUrl": "https://image.tmdb.org/t/p/w780/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg",
+          "tvgName": "A"
+        },
+        {
+          "name": "A Condition Called Love [L] S01 E10",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543743.mp4.m3u8",
+          "logoUrl": "https://image.tmdb.org/t/p/w780/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg",
+          "tvgName": "A"
+        },
+        {
+          "name": "A Condition Called Love [L] S01 E11",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543744.mp4.m3u8",
+          "logoUrl": "https://image.tmdb.org/t/p/w780/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg",
+          "tvgName": "A"
+        },
+        {
+          "name": "A Condition Called Love [L] S01 E12",
+          "url": "http://infosrvdp.net:80/live/series/topuhzxkakaacascfswcfvsavfasvsdgf/sdgfasfasfasfcasfvsdgfverdghgb343rw2424234r2353/543745.mp4.m3u8",
+          "logoUrl": "https://image.tmdb.org/t/p/w780/la02YfwYaD4AWtJDiAgvdt5pGJh.jpg",
+          "tvgName": "A"
         }
       ]
     }
